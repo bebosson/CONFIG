@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/benji/cube/cube3d_2/srcs'
+let g:netrw_dirhist_2='/home/benji/cube/cube3d_2'
+let g:netrw_dirhist_3='/home/benji/cube/cube3d_2/srcs'
+let g:netrw_dirhist_4='/home/benji/cube/cube3d_2/libft/str'
+let g:netrw_dirhist_5='/home/benji/cube/cube3d_2/includes'
+let g:netrw_dirhist_6='/home/benji/doom/include'
+let g:netrw_dirhist_7='/home/benji/cube/cube3d_2/srcs'
+let g:netrw_dirhist_8='/home/benji/cube/cube3d_3'
+let g:netrw_dirhist_9='/home/benji/cube/cube3d_3/srcs'

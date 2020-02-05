@@ -1,0 +1,19 @@
+call plug#begin('~/.vim/plugged')
+Plug 'mhinz/vim-startify'
+call plug#end()
+
+set termguicolors
+nmap <s-right> <c-w><Right>
+nmap <s-left> <c-w><Left>
+nmap <s-up> <c-w><Up>
+nmap <s-down> <c-w><Down>
+set autoread
+set relativenumber
+set rnu
+set nu
+set mouse=n
+syntax on
+set noswapfile
+set ignorecase
+set smartcase
+
